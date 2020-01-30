@@ -1,0 +1,211 @@
+.header{
+	padding: 10px;
+}
+
+.user_icon{
+	height: 50px;
+	width: 50px;
+}
+
+.header_search{
+	border-radius: 30px;
+	margin: 8px 20px;
+}
+
+.content{
+	background-color: rgb(244, 244, 244);
+	padding: 20px 0;
+}
+
+.pic_slide{
+	margin-bottom: 20px;
+}
+
+.video{
+	padding: 0 20px;
+}
+
+.red_span{
+	font-size: 10px;
+	color: white;
+	background-color: rgb(251, 158, 96);
+	padding: 5px;
+	border-radius: 5px;
+	margin-right: 10px;
+	line-height: 20px;
+}
+
+.font_p{
+	margin: 0;
+}
+
+.font_span{
+	color: rgb(159, 159, 159);
+	font-size: 13px;
+	line-height: 20px;
+}
+
+.footer{
+	background-color: rgb(255,255,255);
+}
+
+.footer_img1{
+	cursor: pointer;
+	color: black;
+}
+
+/*shopping*/
+.lh{
+	line-height: 50px;
+}
+
+.header_p{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.ss{
+	border-radius: 50px;
+	margin-bottom: 20px ;
+}
+
+/*.icon_group{
+	margin: 20px 0;
+}
+*/
+
+.fb{
+	font-weight: bold;
+}
+
+.tl{
+	border: 1px solid rgb(230, 230, 230);
+	border-radius: 20px;
+	padding: 5px 10px;
+}
+
+.bq{
+	margin: 20px 0;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+	background-color: rgb(251, 114, 153);
+	font-weight: bold;
+}
+
+.bq_tabs a{
+	color: rgb(40, 40, 40);
+}
+
+/*channel*/
+.ch_nav_l{
+	float: left;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.ch_nav_r{
+	float: right;
+	font-size: 12px;
+	color: rgb(164, 164, 164);
+}
+
+.nr{
+	padding: 20px 10px;
+	background-color: rgb(244, 244, 244);
+	margin: 0 -15px 0 -15px;
+}
+
+.pink_span{
+	color: rgb(252, 140, 171);
+	border: 1px rgb(252, 140, 171) solid;
+	padding: 2px;
+	font-size: 10px;
+	border-radius: 5px;
+}
+
+.lf{
+	float: left;
+}
+
+.rf{
+	float: right;
+}
+
+.pp{
+	margin-bottom: 5px;
+}
+
+.price{
+	color: rgb(252, 140, 171);
+	font-size: 20px;
+}
+
+.want{
+	color: rgb(157, 157, 157);
+	margin-top: 6px;
+}
+
+.pic_bg{
+	background-color: rgb(244,244,244);
+}
+
+.pic_p{
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+.pic_img{
+	margin: 0 -15px;
+}
+
+.pic_tab{
+	margin-top: 20px;
+}
+
+
+.t_i_span{
+	border-radius: 20px;
+	color: rgb(252, 140, 171);
+	border: 1px rgb(252, 140, 171) solid;
+	font-size: 15px;
+	padding: 5px 10px;
+	margin: 40px 20px 40px;
+}
+
+
+/*channel*/
+.ch_content{
+	background-color: rgb(244,244,244);
+	padding-bottom: 20px;
+}
+
+.bgw{
+	background-color: white;
+}
+
+.t_zone{
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+
+.t_z_p{
+	color: rgb(176, 176, 176);
+}
+
+.zone{
+	padding: 10px;
+}
+
+.wall_f{
+	font-size: 18px;
+}
+.w_row{
+	margin-bottom: 20px;
+}
+.well_header{
+	margin-bottom: 20px;
+}
+
